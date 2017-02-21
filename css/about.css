@@ -1,0 +1,211 @@
+﻿
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "微软雅黑", Helvetica, STHeiTi, sans-serif;
+    list-style: none;
+    font-size: 0.24rem;
+    text-decoration: none
+}
+
+.header {
+    width: 6.4rem;
+    height: 0.88rem;
+    background-color: #fe5995;
+    position: fixed;
+    left: 0;
+    top: 0;
+    text-align: center;
+}
+
+.header a img {
+    float: left;
+    height: 0.35rem;
+    margin-left: 0.2rem;
+    width: 0.32rem;
+    margin-top: 0.29rem;
+
+}
+
+.header span {
+    float: left;
+    font-size: 0.208rem;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    margin-top: 0.3rem;
+    display: inline-block;
+    height: 0.3rem;
+    line-height: 0.3rem;
+    position: relative;
+    left: 50%;
+    margin-left: -0.95rem;
+}
+
+.price img {
+    width: 6.4rem;
+    margin-bottom: 0.47rem;
+}
+
+.section1 {
+    background: url("../images/bj_02.jpg") no-repeat;
+    background-size: 100%, 100%;
+    width: 6.4rem;
+    height: 8.72rem;
+    /*margin-top: 0.88rem;*/
+}
+
+.product > ul > li > span.logo1 {
+    background: url("../images/tb_13.png") no-repeat;
+    background-size: 100%, 100%;
+    width: 0.6rem;
+    height: 0.53rem;
+    display: inline-block;
+}
+
+.product > ul > li > span.logo2 {
+    background: url("../images/tb_15.png") no-repeat;
+    background-size: 100%, 100%;
+    width: 0.6rem;
+    height: 0.53rem;
+    display: inline-block;
+}
+
+.product > ul > li > span.logo3 {
+    background: url("../images/tb_17.png") no-repeat;
+    background-size: 100%, 100%;
+    width: 0.6rem;
+    height: 0.53rem;
+    display: inline-block;
+}
+
+.product > ul > li > span.logo4 {
+    background: url("../images/tb_22.png") no-repeat;
+    background-size: 100%, 100%;
+    width: 0.6rem;
+    height: 0.53rem;
+    display: inline-block;
+}
+
+.product > ul > li > span.logo5 {
+    background: url("../images/tb_23.png") no-repeat;
+    background-size: 100%, 100%;
+    width: 0.6rem;
+    height: 0.53rem;
+    display: inline-block;
+}
+
+.product > ul > li > span.logo6 {
+    background: url("../images/tb_24.png") no-repeat;
+    background-size: 100%, 100%;
+    width: 0.6rem;
+    height: 0.53rem;
+    display: inline-block;
+}
+
+.product > ul > li b {
+    display: block;
+    color: #fe5995;
+    margin-top: 0.1rem;
+}
+
+.product > ul > li s {
+    color: #666;
+    display: inline-block;
+    margin-top: 0.2rem;
+    margin-bottom: 0.38rem;
+    font-weight: 600;
+}
+
+.product > ul {
+    margin-left: 0.28rem;
+}
+
+.product > ul li {
+    width: 1.95rem;
+    height: 1.91rem;
+    padding: 0;
+    float: left;
+    text-align: center;
+    margin-bottom: 0.38rem;
+}
+
+.Assists {
+    color: #fe5995;
+    margin-left: 2.2rem;
+    margin-top: 0.3rem;
+    margin-bottom: 0.32rem;
+}
+
+.Assists span {
+    background: url("../images/ax_04.png") no-repeat;
+    background-size: 100%, 100%;
+    width: 0.18rem;
+    height: 0.16rem;
+    display: inline-block;
+    margin-right: 0.12rem;
+    margin-left: 0.09rem;
+}
+
+.introduce {
+    width: 5.3rem;
+    margin-left: 0.5rem;
+    color: #666;
+    margin-bottom: 0.33rem;
+}
+
+/*.secProduct{*/
+/*margin-bottom: 0.3rem;*/
+/*}*/
+.secProduct .num b {
+    font-size: 0.66rem;
+    color: #fe5995;
+    float: left;
+    width: 0.4rem;
+    font-weight: 400;
+
+}
+
+.secProduct .num {
+    overflow: hidden;
+}
+
+.secProduct .num span.details {
+    float: left;
+    display: block;
+    /*width: 5rem;*/
+    margin-top: 0.2rem;
+    color: #fe5995;
+    font-size: 0.17rem;
+    margin-left: 0.1rem;
+}
+
+.secProduct .num span.details s {
+    display: block;
+    margin-top: 0.1rem;
+    color: #fab3cd;
+    font-size: 0.15rem;
+}
+
+.secProduct .img img {
+    width: 100%;
+}
+
+.secProduct .img {
+    padding: 0 0.23rem;
+    padding-bottom: 0.3rem;
+    border-left: 1px solid #fe5995;
+    margin-top: 0.2rem;
+    margin-left: 0.2rem;
+}
+
+.footer img {
+    width: 100%;
+}
+
+.footer p {
+    position: relative;
+    top: -0.7rem;
+    color: #666;
+    text-align: center;
+}
